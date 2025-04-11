@@ -1,0 +1,34 @@
+# ─────────────────────────────────────────────────────────
+# Ignore Android Studio/IntelliJ-specific settings
+# ─────────────────────────────────────────────────────────
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Ignore project files
+*.iml
+
+# ─────────────────────────────────────────────────────────
+# Ignore OS-specific files
+# ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─────────────────────────────────────────────────────────
+# Ignore build and generated files
+# ─────────────────────────────────────────────────────────
+/build/
+/*/build/
+.externalNativeBuild/
+.cxx/
+captures/
+
+local.properties
+
+# Project exclude paths
+/.gradle/
+/build-logic/.gradle/
