@@ -3,17 +3,18 @@
 <p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
   <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
- <br>
 </p>
+
 <p align="center">  
-Caloriefy is a smart calorie tracker app designed to help users maintain a healthy lifestyle by tracking their daily nutritional intake and personal fitness goals.</p>
+Caloriefy is a smart calorie tracker app designed to help users maintain a healthy lifestyle by tracking their daily nutritional intake and personal fitness goals.
+</p>
 
-<div style="display: flex; justify-content: center; background-color: #d4fcd4; padding: 10px; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/6fe60c5d-51e0-40a1-8eca-d9669e1d5aec" alt="screen-1" width="200"/>
-  <img src="https://github.com/user-attachments/assets/7d258bca-2ed7-49ac-bbe0-555448248a84" alt="screen-2" width="200"/>
-  <img src="https://github.com/user-attachments/assets/011feaf1-5f30-4fec-865e-987b576c79af" alt="screen-3" width="200"/>
-</div>
-
+<!-- Simulate light green background using an image row with alt text -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6fe60c5d-51e0-40a1-8eca-d9669e1d5aec" alt="screen-1" width="250"/>
+  <img src="https://github.com/user-attachments/assets/7d258bca-2ed7-49ac-bbe0-555448248a84" alt="screen-2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/011feaf1-5f30-4fec-865e-987b576c79af" alt="screen-3" width="250"/>
+</p>
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21.
