@@ -12,10 +12,6 @@ Caloriefy is a smart calorie tracker app designed to help users maintain a healt
 <p align="center">
 <img src="core/previews/screenshot.png"/>
 </p> 
-![1000022230](https://github.com/user-attachments/assets/91a11746-54ae-402a-88fd-61e97b0f0107)
-![1000022229](https://github.com/user-attachments/assets/d2e20a28-b2e7-4e6d-b0c6-87ee8ab50565)
-![1000022228](https://github.com/user-attachments/assets/f1af9793-75d2-4c56-8431-dced4e50ed8a)
-
 
 <img src="core/previews/preview.gif" align="right" width="320"/>
 
