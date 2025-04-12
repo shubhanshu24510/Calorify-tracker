@@ -5,15 +5,15 @@
   <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
  <br>
 </p>
-
 <p align="center">  
 Caloriefy is a smart calorie tracker app designed to help users maintain a healthy lifestyle by tracking their daily nutritional intake and personal fitness goals.</p>
 
-<p align="center">
-<img src="core/previews/screenshot.png"/>
-</p> 
+<div style="display: flex; justify-content: center; background-color: #d4fcd4; padding: 10px; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/6fe60c5d-51e0-40a1-8eca-d9669e1d5aec" alt="screen-1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/7d258bca-2ed7-49ac-bbe0-555448248a84" alt="screen-2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/011feaf1-5f30-4fec-865e-987b576c79af" alt="screen-3" width="200"/>
+</div>
 
-<img src="core/previews/preview.gif" align="right" width="320"/>
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21.
